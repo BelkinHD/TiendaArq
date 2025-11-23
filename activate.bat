@@ -1,0 +1,1 @@
+call C:\Users\Victor\Desktop\TIenda_bicis\.venv\Scripts\activate.bat
